@@ -4,12 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60035b29-438b-42ed-8126-6282ff46c7b5" name="Changes" comment="Test_screenshot_add">
-      <change afterPath="$PROJECT_DIR$/SQL запросы (1 и 2 задание)" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Снимок экрана 2024-03-16 в 12.54.58.png" afterDir="false" />
+    <list default="true" id="60035b29-438b-42ed-8126-6282ff46c7b5" name="Changes" comment="Добавление скриншота и заданий по SQL">
+      <change afterPath="$PROJECT_DIR$/sender_stand_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/conf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post_Order.py" beforeDir="false" afterPath="$PROJECT_DIR$/post_Order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_Order_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/post_Order.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Снимок экрана 2024-03-16 в 04.45.25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Снимок экрана 2024-03-16 в 12.54.58.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +50,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in test_get_order_by_track_success.py.executor": "Run",
     "Python tests.pytest in /.executor": "Run",
     "Python.conf.executor": "Run",
     "Python.post_Order.executor": "Run",
+    "Python.sender_stand_request.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -106,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710550008211</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Добавление скриншота и заданий по SQL">
+      <option name="closed" value="true" />
+      <created>1710579428402</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710579428402</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +167,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test_screenshot_add" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test_screenshot_add" />
+    <MESSAGE value="Добавление скриншота и заданий по SQL" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавление скриншота и заданий по SQL" />
   </component>
 </project>

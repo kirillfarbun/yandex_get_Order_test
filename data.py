@@ -2,7 +2,7 @@ headers = {
     "Content-Type": "application/json"
 }
 
-bodyOrder = {
+body_order = {
     "firstName": "Naruto",
     "lastName": "Uchiha",
     "address": "Konoha, 142 apt.",
@@ -15,3 +15,4 @@ bodyOrder = {
         "BLACK"
     ]
 }
+# изменено названий переменных и функций

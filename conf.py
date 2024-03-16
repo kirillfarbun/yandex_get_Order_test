@@ -1,3 +1,4 @@
-URL_SERVICE = "https://d7b76915-2967-409d-8831-3903760cd5aa.serverhub.praktikum-services.ru"
-postOrder = "/api/v1/orders"
-getOrder = "/api/v1/orders/track?t="
+URL_SERVICE = "https://ed952195-c7dc-4e11-bdfa-bd2a24037b95.serverhub.praktikum-services.ru"
+POST_ORDER = "/api/v1/orders"
+GET_ORDER = "/api/v1/orders/track?t="
+# названия констант переименованы написаны с заглавными буквами, слова разделены "_"

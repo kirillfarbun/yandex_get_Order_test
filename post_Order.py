@@ -9,6 +9,8 @@ def post_new_order():
 
 
 response = post_new_order()
-
-track = str(response.json()["track"])
+a = response.json()
+print(a)
+track = str(a['track'])
+print(track)
 
